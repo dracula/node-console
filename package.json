@@ -1,0 +1,28 @@
+{
+  "name": "dracula-console",
+  "version": "0.1.0",
+  "description": "Dracula theme for Node console",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node sample/sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brannonh/dracula-console.git"
+  },
+  "keywords": [
+    "dark-theme"
+  ],
+  "author": {
+    "name": "brannonh",
+    "email": "brannonh.dev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brannonh/dracula-console/issues"
+  },
+  "homepage": "https://github.com/brannonh/dracula-console#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
