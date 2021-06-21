@@ -1,6 +1,6 @@
 {
   "name": "dracula-console",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Dracula theme for Node console",
   "main": "src/index.js",
   "scripts": {
