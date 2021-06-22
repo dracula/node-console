@@ -9,7 +9,7 @@ npm install dracula-console
 #### Using Theme
 
 ```
-const dracula = require('dracular-console');
+const dracula = require('dracula-console');
 
 console.log(
   dracula.purple('Dracula Theme'),
