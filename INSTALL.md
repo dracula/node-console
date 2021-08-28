@@ -1,18 +1,12 @@
-## [Node Console](https://nodejs.org)
+### [Node Console](https://nodejs.org)
 
-### Install Using NPM
+#### Install with NPM
 
-```
+```bash
 npm install dracula-console
 ```
 
-### Using Theme
-
-#### Sample
-
-![Screenshot](./screenshot.png)
-
-#### Code
+#### Using the theme
 
 ```javascript
 const dracula = require('dracula-console');
